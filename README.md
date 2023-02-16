@@ -3,7 +3,7 @@ This program is a juggling video analyser. For your convenience juggling.mp4 is 
 
 Download juggling-analysis.exe and run it.
 
-Or you can try:
+Alternatively you can try:
 
 Get Python from: https://www.python.org/downloads/. Download requirements.txt and juggling-analysis.py. In Windows command line navigate into the folder with requirements.txt. 
 
